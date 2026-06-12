@@ -3,7 +3,7 @@ const Squirrel = ({ name, color, emoji }: { name: string; color: string; emoji: 
     <div className={`relative w-32 h-32 rounded-full ${color} flex items-center justify-center shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 cursor-pointer`}>
       <span className="text-6xl">{emoji}</span>
     </div>
-    <h2 className="mt-6 text-xl font-semibold text-gray-800">{name}</h2>
+    <h2 className="mt-6 text-xl font-semibold text-orange-600">{name}</h2>
   </div>
 );
 
