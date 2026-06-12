@@ -18,7 +18,7 @@ export default function Index() {
     <div className="min-h-screen bg-gradient-to-b from-sky-50 via-white to-emerald-50 px-4">
       {/* Header */}
       <div className="pt-12 pb-20 text-center">
-        <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-4 animate-slideDown">
+        <h1 className="text-5xl md:text-6xl font-bold mb-4 animate-slideDown bg-gradient-to-r from-amber-500 via-orange-500 to-rose-500 bg-clip-text text-transparent">
           Welcome to Squirrel Land
         </h1>
         <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto animate-fadeIn" style={{ animationDelay: '0.2s' }}>
