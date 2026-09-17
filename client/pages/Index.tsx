@@ -15,10 +15,10 @@ export default function Index() {
   ];
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-sky-50 via-white to-emerald-50 px-4">
+    <div className="min-h-screen bg-gradient-to-b from-pink-50 via-pink-100 to-rose-100 px-4">
       {/* Header */}
       <div className="pt-12 pb-20 text-center">
-        <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-4 animate-slideDown">
+        <h1 className="text-5xl md:text-6xl font-bold bg-gradient-to-r from-pink-500 via-orange-500 to-yellow-400 bg-clip-text text-transparent mb-4 animate-slideDown transition-transform duration-300 hover:scale-105">
           Welcome to Squirrel Land
         </h1>
         <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto animate-fadeIn" style={{ animationDelay: '0.2s' }}>
@@ -41,7 +41,7 @@ export default function Index() {
         </div>
 
         <div className="text-center py-12 px-4">
-          <p className="text-lg text-gray-700 max-w-2xl mx-auto">
+          <p className="text-lg text-[#800020] max-w-2xl mx-auto">
             These delightful squirrels love to gather acorns and share their natural habitat adventures with you.
           </p>
         </div>
