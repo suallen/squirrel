@@ -41,7 +41,7 @@ export default function Index() {
         </div>
 
         <div className="text-center py-12 px-4">
-          <p className="text-lg text-gray-700 max-w-2xl mx-auto">
+          <p className="text-lg text-[#800020] max-w-2xl mx-auto">
             These delightful squirrels love to gather acorns and share their natural habitat adventures with you.
           </p>
         </div>
