@@ -10,7 +10,7 @@ const Squirrel = ({ name, color, emoji }: { name: string; color: string; emoji: 
 export default function Index() {
   const squirrels = [
     { name: 'Nutkin', color: 'bg-amber-200', emoji: '🐿️' },
-    { name: 'Chestnut', color: 'bg-orange-200', emoji: '🐿️' },
+    { name: 'CHESTNUT', color: 'bg-orange-200', emoji: '🐿️' },
     { name: 'Acorn', color: 'bg-yellow-100', emoji: '🐿️' },
   ];
 
